@@ -1,0 +1,33 @@
+.thumbnail-logo {
+  width: 30%;
+}
+
+.theme-description {
+  font-size: 0.8em;
+}
+
+.disclaimer a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer-nav a {
+  text-decoration: none;
+}
+
+/* Use .white with buttons on .invert to fill white with accent text color on hover */
+.white:hover {
+  color: #72bc11 !important;
+  background-color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+.team-role {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 1em;
+}
+
+.label li:hover {
+  color: inherit;
+}
