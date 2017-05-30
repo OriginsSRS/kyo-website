@@ -42,8 +42,7 @@ you can use for pretty much whatever.
 (* = my other side project -- carrd.co)
 (** = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+AJ | aj@lkn.io | @ajlkn
 
 
 Credits:
