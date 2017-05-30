@@ -23,7 +23,9 @@ OSRS is a one-stop internet destination to access scientific knowledge in the fo
 ## About the Template
 
 Story by HTML5 UP
+
 html5up.net | @ajlkn
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -36,9 +38,6 @@ demo, and index.html for the actual template. Enjoy!
 
 Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
-
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
 
 (* = my other side project -- carrd.co)
 (** = not included)
