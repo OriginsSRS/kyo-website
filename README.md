@@ -20,7 +20,8 @@ OSRS is a one-stop internet destination to access scientific knowledge in the fo
 * [Tumblr](https://www.tumblr.com/blog/knowyourorigins)
 * [Instagram](https://www.instagram.com/originssrs/)
 
-##About the Template
+## About the Template
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
