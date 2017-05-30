@@ -117,7 +117,7 @@
 				width: 100%;
 				height: 100%;
 				background-color: transparentize(_palette(invert, bg), 1 - _misc(overlay-opacity));
-				opacity: 1;
+				opacity: 0;
 				padding: 2rem;
 				z-index: 1;
 				font-size: 0.8rem;
@@ -368,7 +368,7 @@
 				width: 100%;
 				height: 100%;
 				background-color: transparentize(_palette(invert, bg), 1 - _misc(overlay-opacity));
-				opacity: 1;
+				opacity: 0;
 				padding: 3rem;
 				z-index: 1;
 				font-size: 0.8rem;
@@ -607,7 +607,7 @@
 		.gallery {
 			article {
 				.image {
-					background-color: transparentize(_palette($p, fg-bold), 0.825);
+					background-color: transparentize(_palette($p, fg-bold), 0.875);
 				}
 			}
 		}
